@@ -21,4 +21,8 @@ It also tells how many days to crack your password if the rate limiting is off (
 <img width="558" height="538" alt="Screenshot 2026-01-07 211716" src="https://github.com/user-attachments/assets/539e53ff-209a-467e-84c0-749e953bda7e" />
 
 
-## Proof of Work (Video)
+## Proof of work (Video)
+
+https://github.com/user-attachments/assets/5e8c8d03-489b-4fe2-a0fd-45933a7e42dc
+
+
