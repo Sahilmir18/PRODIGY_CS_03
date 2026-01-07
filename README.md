@@ -1,6 +1,7 @@
 ## Passwored Complexity Checker
 Building a tool that assess the strenth of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers and special characters
 Also Provide suggestions and feedbacks to users on the passwords strength.
+It also tells how many days to crack your password if the rate limiting is off (Offline) and using estimation of high end gpu which has power to do 10 billion attempts per seconds
 
 ## How to use
 1. Download the main.py python file
